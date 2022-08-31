@@ -18,7 +18,7 @@
     5- use postman collection to login email: admin@edu.com password: 1234567890 
     
 
-### {{base_url}} is 'http://127.0.0.1:8000/api'
+## {{base_url}} is 'http://127.0.0.1:8000/api'
 
 ## if need to add it in your postman 
     1- go on Environments Tab
