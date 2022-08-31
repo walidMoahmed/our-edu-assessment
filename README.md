@@ -1,4 +1,4 @@
-## You must follow this instructions to run the project 
+### You must follow this instructions to run the project 
     1 - git clone 'https://github.com/walidMoahmed/our-edu-assessment' 
     2- create database 
     3- change database config in file .env like this :
